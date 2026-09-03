@@ -164,13 +164,15 @@ section:nth-child(even) {
     transform-origin: bottom left;
     transform: rotate(0);
   }
-  25% {
+  33% {
     transform-origin: bottom left;
     transform: rotate(30deg);
   }
-  50% {
+  66% {
     transform-origin: bottom left;
     transform: rotate(60deg);
+  }
+  
   }
   100% {
     transform-origin: bottom left;
