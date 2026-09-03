@@ -6,6 +6,10 @@ html {
   scroll-behavior: smooth;
 }
 
+h1{
+  padding:20px;
+}
+
 .link-hover-effect{
   position: relative;
   text-decoration: none;
@@ -145,7 +149,7 @@ section:nth-child(even) {
 
 .about-me-img{
   width: 1000%;
-  height: 100%
+  height: 100%;
   padding-bottom: 10%;
 }
 
@@ -178,7 +182,6 @@ section:nth-child(even) {
     transform-origin: bottom left;
     transform: rotate(0);
   }
-}
 
 
 .about-me-info-text {
